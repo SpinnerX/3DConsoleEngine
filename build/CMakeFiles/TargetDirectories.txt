@@ -1,0 +1,3 @@
+/Users/aaronher/Desktop/3DConsoleEngine/build/CMakeFiles/3DConsoleRenderer.dir
+/Users/aaronher/Desktop/3DConsoleEngine/build/CMakeFiles/edit_cache.dir
+/Users/aaronher/Desktop/3DConsoleEngine/build/CMakeFiles/rebuild_cache.dir
